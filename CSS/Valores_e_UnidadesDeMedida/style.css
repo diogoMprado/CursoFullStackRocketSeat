@@ -1,0 +1,6 @@
+h1 {
+    color: blue; /*color*/
+    font-size: 24px; /*length*/
+    letter-spacing: 2; /* number */
+    text-transform: uppercase; /* ? */
+}

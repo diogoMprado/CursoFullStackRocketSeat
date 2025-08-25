@@ -1,0 +1,5 @@
+Comentários
+Comentários em CSS são úteis para fazer anotações e
+desconsiderar partes do código. Eles são criados com /* texto */,
+permitindo adicionar notas ou desativar trechos de código.
+Comentários ajudam a organizar e documentar o CSS de forma eficiente.
